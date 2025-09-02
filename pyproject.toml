@@ -3,7 +3,7 @@ name = "qstock"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.10"
 dependencies = [
     "backtrader>=1.9.78.123",
     "bs4>=0.0.2",
