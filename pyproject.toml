@@ -20,4 +20,5 @@ dependencies = [
     "requests>=2.32.5",
     "seaborn>=0.13.2",
     "tqdm>=4.67.1",
+    "zipline-reloaded>=3.1.1",
 ]
