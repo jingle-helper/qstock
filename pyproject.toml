@@ -1,0 +1,23 @@
+[project]
+name = "qstock"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "backtrader>=1.9.78.123",
+    "bs4>=0.0.2",
+    "func-timeout>=4.3.5",
+    "jieba>=0.42.1",
+    "jsonpath>=0.82.2",
+    "matplotlib>=3.10.6",
+    "multitasking>=0.0.12",
+    "plotly>=6.3.0",
+    "py-mini-racer>=0.6.0",
+    "pyecharts>=2.0.8",
+    "pyfolio-reloaded>=0.9.9",
+    "pywencai>=0.13.1",
+    "requests>=2.32.5",
+    "seaborn>=0.13.2",
+    "tqdm>=4.67.1",
+]

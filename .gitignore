@@ -1,0 +1,15 @@
+# filepath: c:\Users\jingl\Code\qstock\.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+.mypy_cache/
+.pytest_cache/
+.vscode/
+uv.lock
+*.sqlite3
+*.log
